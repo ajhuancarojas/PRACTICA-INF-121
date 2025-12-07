@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "TechCorp",
+        "rubro": "Tecnolog\u00eda",
+        "num_empleados": "500"
+    },
+    {
+        "nombre": "BuildCo",
+        "rubro": "Construcci\u00f3n",
+        "num_empleados": "250"
+    },
+    {
+        "nombre": "FoodInc",
+        "rubro": "Alimentaci\u00f3n",
+        "num_empleados": "100"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Player1",
+        "nivel": "10",
+        "puntaje": "1500"
+    },
+    {
+        "nombre": "Player2",
+        "nivel": "5",
+        "puntaje": "800"
+    },
+    {
+        "nombre": "Player3",
+        "nivel": "15",
+        "puntaje": "2200"
+    }
+]

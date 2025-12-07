@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Iris",
+        "num_instancias": "150",
+        "algoritmo": "KNN"
+    },
+    {
+        "nombre": "MNIST",
+        "num_instancias": "70000",
+        "algoritmo": "Red Neuronal"
+    },
+    {
+        "nombre": "CIFAR-10",
+        "num_instancias": "60000",
+        "algoritmo": "CNN"
+    }
+]

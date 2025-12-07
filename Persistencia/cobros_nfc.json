@@ -1,0 +1,17 @@
+[
+    {
+        "id_transaccion": "T001",
+        "monto": "25.50",
+        "fecha": "15/11/2025"
+    },
+    {
+        "id_transaccion": "T002",
+        "monto": "100.00",
+        "fecha": "14/11/2025"
+    },
+    {
+        "id_transaccion": "T003",
+        "monto": "50.75",
+        "fecha": "13/11/2025"
+    }
+]

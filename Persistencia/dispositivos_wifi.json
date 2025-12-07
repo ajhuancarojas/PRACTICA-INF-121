@@ -1,0 +1,17 @@
+[
+    {
+        "mac": "AA:BB:CC:DD:EE:01",
+        "nombre": "Laptop-1",
+        "velocidad": "1200"
+    },
+    {
+        "mac": "AA:BB:CC:DD:EE:02",
+        "nombre": "Smartphone-1",
+        "velocidad": "800"
+    },
+    {
+        "mac": "AA:BB:CC:DD:EE:03",
+        "nombre": "Tablet-1",
+        "velocidad": "600"
+    }
+]
