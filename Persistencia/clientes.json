@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan P\u00e9rez",
+    "libros_comprados": [
+      "L001"
+    ],
+    "libros_prestados": [
+      "L001",
+      "L002"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Mar\u00eda G\u00f3mez",
+    "libros_comprados": [
+      "L001",
+      "L002"
+    ],
+    "libros_prestados": [
+      "L001"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos L\u00f3pez",
+    "libros_comprados": [
+      "L002"
+    ],
+    "libros_prestados": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "numero": 101,
+    "direccion": "Av. Libertador 123",
+    "medicamentos": [
+      {
+        "nombre": "Tapsin",
+        "tipo": "dolor",
+        "precio": 8.75
+      },
+      {
+        "nombre": "Antigripal",
+        "tipo": "gripe",
+        "precio": 12.3
+      }
+    ]
+  },
+  {
+    "numero": 102,
+    "direccion": "Calle Principal 456",
+    "medicamentos": [
+      {
+        "nombre": "Tapsin",
+        "tipo": "dolor",
+        "precio": 8.75
+      },
+      {
+        "nombre": "Aspirina",
+        "tipo": "dolor",
+        "precio": 5.25
+      },
+      {
+        "nombre": "Pastillas para la tos",
+        "tipo": "tos",
+        "precio": 7.8
+      },
+      {
+        "nombre": "Jarabe para la tos",
+        "tipo": "tos",
+        "precio": 15.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "L001",
+    "titulo": "El Principito",
+    "precio": 10.99,
+    "vendidos": 5,
+    "prestados": 2
+  },
+  {
+    "codigo": "L002",
+    "titulo": "Cien A\u00f1os de Soledad",
+    "precio": 15.5,
+    "vendidos": 3,
+    "prestados": 1
+  },
+  {
+    "codigo": "L003",
+    "titulo": "Don Quijote",
+    "precio": 12.0,
+    "vendidos": 0,
+    "prestados": 0
+  }
+]

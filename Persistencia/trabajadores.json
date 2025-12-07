@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "ANA QUISPE",
+    "carnet": 1001,
+    "salario": 2500.0
+  },
+  {
+    "nombre": "LUIS VALVERDE",
+    "carnet": 1002,
+    "salario": 3200.0
+  }
+]
